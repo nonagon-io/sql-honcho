@@ -49,13 +49,13 @@ cat > "$root/DEBIAN/control" <<CONTROL
 Package: sql-honcho
 Version: $version
 Architecture: $deb_arch
-Maintainer: NonGT <NonGT@users.noreply.github.com>
+Maintainer: Nonagon Co., Ltd. <thenongt@gmail.com>
 Installed-Size: $size
 Depends: libc6, libfreetype6, libxcb1, libxkbcommon0, libxkbcommon-x11-0, libvulkan1
 Recommends: libwayland-client0, libfontconfig1, xdg-desktop-portal-gtk | xdg-desktop-portal, gnome-keyring | keepassxc
 Section: database
 Priority: optional
-Homepage: https://github.com/NonGT/sql-honcho
+Homepage: https://github.com/nonagon-io/sql-honcho
 Description: SQL editor and database client
  A native SQL editor and client for PostgreSQL, MySQL/MariaDB,
  SQL Server and SQLite.

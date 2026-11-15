@@ -1118,7 +1118,7 @@ impl Workspace {
         let answer = window.prompt(
             PromptLevel::Info,
             &title,
-            Some("A native SQL editor and database client.\nhttps://github.com/NonGT/sql-honcho"),
+            Some("A native SQL editor and database client.\nhttps://github.com/nonagon-io/sql-honcho"),
             &["OK"],
             cx,
         );

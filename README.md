@@ -12,7 +12,7 @@ grid.
 ## Install
 
 Builds for macOS, Windows and Linux are on the
-[releases page](https://github.com/NonGT/sql-honcho/releases).
+[releases page](https://github.com/nonagon-io/sql-honcho/releases).
 
 - macOS: open the .dmg and drag sql-honcho to Applications. It isn't
   signed with a Developer ID yet, so the first time right-click it and pick
