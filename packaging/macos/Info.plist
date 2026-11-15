@@ -7,7 +7,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>sql-honcho</string>
 	<key>CFBundleIdentifier</key>
-	<string>io.github.nongt.sql-honcho</string>
+	<string>io.nonagon.sql-honcho</string>
 	<key>CFBundleExecutable</key>
 	<string>sql-honcho</string>
 	<key>CFBundleIconFile</key>

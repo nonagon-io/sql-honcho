@@ -7,8 +7,8 @@
 AppId={{6F3E9D2B-4C1A-4E8B-9A57-2D5C8F1B0E64}
 AppName=sql-honcho
 AppVersion={#Version}
-AppPublisher=NonGT
-AppPublisherURL=https://github.com/NonGT/sql-honcho
+AppPublisher=Nonagon Co., Ltd.
+AppPublisherURL=https://github.com/nonagon-io/sql-honcho
 DefaultDirName={autopf}\sql-honcho
 DefaultGroupName=sql-honcho
 DisableProgramGroupPage=yes

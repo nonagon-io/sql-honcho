@@ -6,7 +6,7 @@ members = ["crates/honcho-core", "crates/honcho-db", "crates/honcho-config", "cr
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/NonGT/sql-honcho"
+repository = "https://github.com/nonagon-io/sql-honcho"
 
 # The rustls name check fix (blackbeam/mysql_async#408) is not released yet;
 # without it verify-ca behaves like verify-full. Drop this after 0.37.1.
