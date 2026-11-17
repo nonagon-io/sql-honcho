@@ -49,7 +49,7 @@ cat > "$root/DEBIAN/control" <<CONTROL
 Package: sql-honcho
 Version: $version
 Architecture: $deb_arch
-Maintainer: Nonagon Co., Ltd. <thenongt@gmail.com>
+Maintainer: Nonagon Co., Ltd. <support@nonagon.co.th>
 Installed-Size: $size
 Depends: libc6, libfreetype6, libxcb1, libxkbcommon0, libxkbcommon-x11-0, libvulkan1
 Recommends: libwayland-client0, libfontconfig1, xdg-desktop-portal-gtk | xdg-desktop-portal, gnome-keyring | keepassxc
